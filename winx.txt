@@ -1,0 +1,14 @@
+<html>	
+   <Head><title> WEBPAGE </title></head>
+    <body background="power.jpg"> 
+    
+<body>
+<FONT COLOR= "GreenYellow", SIZE= 25, FACE= Brush Script MT>
+<p style= "text-align:center"><b> "Don't live in fear , live in faith" </p></b>
+<br>
+<br>
+<p style= "text-align:center"><img src = winx.jpg , width = 900 , length = 900> </p></img>
+<FONT COLOR= "DeepSkyBlue", SIZE= 25, FACE= Brush Script MT>
+<p><marquee behavior= scroll, direction= right> "Wear Mask , Be at home and Stay Safe"<marquee>
+</body>
+</html>
